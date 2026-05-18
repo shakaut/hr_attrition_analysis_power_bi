@@ -1,150 +1,87 @@
-# 📊 HR Employee Attrition Analysis Dashboard
+# HR Employee Attrition Analysis Dashboard
 
-## 📌 Project Overview
+Dashboard Preview: https://drive.google.com/file/d/1MPlnaNf4dE0xDdTv7R29hA5vAiVHXJG4/view?usp=sharing
 
-This project focuses on analyzing HR Employee Attrition data using **Power BI** to identify the major factors affecting employee turnover and retention within the organization.
+## Overview
+
+This project analyzes employee attrition data using Power BI to identify the main factors affecting employee turnover and retention.
 
 The dashboard provides insights into:
-- Employee demographics
+- Age group distribution
 - Department-wise attrition
-- Job role analysis
+- Job roles with highest attrition
 - Job satisfaction
-- Education background impact
-- Promotion and manager engagement trends
-
-The objective of this project is to help organizations make data-driven HR decisions and improve employee retention strategies.
+- Education background
+- Promotion and manager engagement
 
 ---
 
-# 📈 Key Insights from Analysis
+# Dataset Overview
 
-## 1️⃣ Age Group Analysis
+- Total Employees: 1470
+- Total Columns: 24
+- Dataset Type: HR Employee Attrition Dataset
+- Tool Used: Power BI
 
-- Most employees belong to the **25–34 age group**
-- The second highest employee count belongs to the **35–44 age group**
-- Attrition is also highest within these same age ranges
+### Dataset Columns
 
-### 📌 Insight
-Mid-career professionals form the majority of the workforce and are also the most likely to leave the company.
-
----
-
-## 2️⃣ Department-wise Attrition
-
-- The **Research & Development (R&D)** department has the highest attrition rate
-
-### 📌 Insight
-This may indicate:
-- Heavy workload
-- Career growth limitations
-- High-pressure environment
-- Employee burnout
-
----
-
-## 3️⃣ Job Role Analysis
-
-### 🔺 Highest Attrition Roles
-1. Sales Representative  
-2. Laboratory Technician  
-
-### 🔻 Lowest Attrition Role
-- Research Director
-
-### 📌 Insight
-Operational and entry-level roles experience higher turnover, while leadership roles show stronger employee retention.
+- Employee Number
+- Attrition
+- Business Travel
+- Age Group
+- Department
+- Education Field
+- Employee Count
+- Gender
+- Job Role
+- Marital Status
+- Over Time
+- Age
+- Distance From Home
+- Education
+- Environment Satisfaction
+- Job Level
+- Job Satisfaction
+- Monthly Income
+- Total Working Years
+- Work Life Balance
+- Years At Company
+- Years In Current Role
+- Years Since Last Promotion
+- Years With Current Manager
 
 ---
 
-## 4️⃣ Job Satisfaction Analysis
+# Key Insights
 
-- Most employees rated their job satisfaction as **4**
-
-### Highest Job Satisfaction Roles
-- Sales Executive
-- Research Scientist
-
-### 📌 Insight
-Even though many employees report high satisfaction, attrition still exists, suggesting that factors beyond satisfaction contribute to turnover.
-
----
-
-## 5️⃣ Education Field Analysis
-
-### Highest Attrition by Education Background
-1. Life Sciences  
-2. Medical
-
-### 📌 Insight
-Employees from technical and scientific backgrounds may have more competitive external opportunities, leading to higher attrition.
+- Employees aged 25–34 have the highest attrition, followed by 35–44
+- R&D department has the highest attrition rate
+- Sales Representative and Laboratory Technician roles show the highest attrition
+- Research Director has the lowest attrition
+- Most employees rated job satisfaction as 4
+- Employees from Life Sciences and Medical backgrounds show higher attrition
+- Employees working 0–3 years with current managers are more likely to leave
+- Employees with 0 years since last promotion have the highest attrition
+- Employees who work overtime are more likely to leave the company
+- Single employees show higher attrition compared to married employees
+- Employees with lower job levels tend to have higher attrition
+- Lower monthly income is associated with higher employee turnover
+- Employees with shorter total working years are more likely to leave
+- Sales department also shows significant employee attrition after R&D
+- Employees living farther from the workplace tend to show slightly higher attrition
+- Frequent business travel is associated with higher attrition rates
 
 ---
 
-## 6️⃣ Manager Engagement Analysis
+# Recommendations
 
-- Most employees who left the company had worked with their current manager for **0–3 years**
-
-### 📌 Insight
-Early manager-employee relationships play a critical role in employee retention.
-
-Possible reasons:
-- Poor onboarding
-- Weak mentorship
-- Communication gaps
-- Low engagement
-
----
-
-## 7️⃣ Promotion Analysis
-
-- Employees with **0 years since last promotion** showed the highest attrition
-
-### 📌 Insight
-This may indicate:
-- Lack of career growth
-- Delayed recognition
-- Limited promotion opportunities
-
----
-
-# 💡 Business Recommendations
-
-## ✅ Improve Employee Onboarding
-- Create structured onboarding programs
-- Assign mentors to new employees
-- Conduct regular feedback sessions
-
-## ✅ Focus on R&D Employee Retention
-- Improve workload distribution
+- Improve onboarding and manager engagement
 - Provide better career growth opportunities
-- Introduce employee wellness programs
-
-## ✅ Support High Attrition Job Roles
-Special focus should be given to:
-- Sales Representatives
-- Laboratory Technicians
-
-through:
-- Better compensation plans
-- Incentive programs
-- Career development opportunities
-
-## ✅ Strengthen Promotion Policies
-- Introduce transparent promotion systems
-- Recognize employee achievements regularly
-- Create internal mobility opportunities
-
-## ✅ Improve Manager Engagement
-- Train managers on communication and leadership
-- Encourage regular one-on-one meetings
-- Strengthen team engagement practices
-
----
-
-# 🛠️ Tools Used
-
-- Power BI
-- Microsoft Excel
+- Focus on retention strategies in the R&D department
+- Support high attrition job roles with better incentives and development programs
+- Reduce overtime workload and improve work-life balance
+- Create employee recognition and promotion programs
+- Provide mentorship programs for new employees
 
 ---
 
@@ -154,26 +91,13 @@ through:
 - Department-wise Analysis
 - Job Role Analysis
 - Job Satisfaction Analysis
-- Education Field Analysis
 - Promotion & Manager Analysis
-- Interactive Filters & Visualizations
+- Interactive Filters and Visualizations
 
 ---
 
-# Conclusion
+# Tools Used
 
-The analysis reveals that employee attrition is strongly influenced by:
-- Age group
-- Department
-- Job role
-- Promotion history
-- Education background
-- Manager engagement
+- Power BI
+- Microsoft Excel
 
-The dashboard helps identify high-risk employee groups and provides insights that can support better HR strategies and improve employee retention.
-
-
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
