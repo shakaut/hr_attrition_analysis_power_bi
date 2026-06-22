@@ -2,6 +2,11 @@
 
 Dashboard Preview: https://drive.google.com/file/d/1MPlnaNf4dE0xDdTv7R29hA5vAiVHXJG4/view?usp=sharing
 
+
+-----
+<img width="1285" height="730" alt="Dashboard view" src="https://github.com/user-attachments/assets/f3a026b3-1654-443e-a336-9a4e69b938c0" />
+
+-----
 ## Overview
 
 This project analyzes employee attrition data using Power BI to identify the main factors affecting employee turnover and retention.
